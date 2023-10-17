@@ -1,5 +1,8 @@
 # АPI тесты используя REST Assured
 ###
+### Тесты с применение POJO: [click](https://github.com/baisaganov/QA_tests/blob/main/src/test/java/api/ReqresPOJOTest.java)
+### Тесты без применения POJO: [click](https://github.com/baisaganov/QA_tests/blob/main/src/test/java/api/ReqresNoPOJOTest.java)
+###
 Тест 1
 1. Используя сервис https://regres.in/ получить список пользователей со второй(2) страницы
 2. Убедиться что имена файлов-аватаров пользоваталей совпадают:
